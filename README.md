@@ -2,7 +2,7 @@ This project focuses on building a machine learning classification system to pre
 
 The project demonstrates the full machine learning pipeline, including data preprocessing, feature engineering, model training, and performance evaluation.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Analyze car insurance customer data.
 
@@ -14,7 +14,7 @@ Train and compare multiple classification models.
 
 Evaluate model performance using standard metrics.
 
-🧠 Methods & Techniques
+# 🧠 Methods & Techniques
 
 Data Cleaning & Handling Missing Values
 
@@ -34,7 +34,7 @@ Decision Tree
 
 (Optional: XGBoost / SVM)
 
-🧠 Summary Table of Models
+# 🧠 Summary Table of Models
 <img width="1069" height="144" alt="Screenshot 2026-03-16 235145" src="https://github.com/user-attachments/assets/29f3f98d-a7ea-4f65-8cb1-c6fa3125ca59" />
 <img width="1061" height="518" alt="Screenshot 2026-03-16 235247" src="https://github.com/user-attachments/assets/0341e3b7-3c78-4614-bb41-fef35c2e9852" />
 <img width="1063" height="519" alt="Screenshot 2026-03-16 235317" src="https://github.com/user-attachments/assets/9a5e4d42-cdda-449f-a774-e477308cbdf3" />
@@ -43,7 +43,7 @@ Decision Tree
 <img width="1062" height="479" alt="Screenshot 2026-03-16 235454" src="https://github.com/user-attachments/assets/d744c47f-0599-410f-9d6b-e63f89642137" />
 
 
-📊 Evaluation Metrics
+# 📊 Evaluation Metrics
 
 Accuracy
 
@@ -55,7 +55,7 @@ F1-score
 
 Confusion Matrix
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Python
 
